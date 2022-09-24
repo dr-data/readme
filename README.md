@@ -10,4 +10,4 @@ I am an entrepreneur, professionally trained experimental Physicist, self-taught
 
 
 I am also active in the entrepreneurship community and hosted several entrepreneurship events in Asia. I am the facilitator and organizer of Startup Weekend since 2011. I organized the first university-edition of startup weekend in Hong Kong at the University of Hong Kong and first maker-edition and youth-edition of startup weekend in Hong Kong.
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dr-data&count_private=false&show_icons=true&hide_border=true&theme=tokyonight" alt="cveinnt" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dr-data&count_private=false&show_icons=true&hide_border=true&theme=tokyonight" alt="dr-data" />
